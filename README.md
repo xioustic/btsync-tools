@@ -4,7 +4,8 @@ The intention of these utilities are to allow
 recovery of BTSync keys at a later date by making
 them deterministic in a (hopefully) cryptographically
 secure way and also to create cryptographically secure
-directories of shares for retrieval at a later date.
+directories of shares that could be stored in a
+relatively untrusted environment.
 
 Key Generation
 ==============
