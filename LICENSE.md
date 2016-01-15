@@ -26,5 +26,5 @@ Components Used
 ===============
 btsync (btsync_* in the bin folder) - https://www.getsync.com/platforms/desktop
 -------------------------------------------------------------------------------
-©2015 BitTorrent Inc. Sync is a trademark of BitTorrent, Inc.
+©2015 BitTorrent Inc. Sync is a trademark of BitTorrent, Inc.  
 Additional information here: https://www.getsync.com/legal/terms-of-use
